@@ -1,0 +1,1 @@
+CreateGrudge(Australian Geography,Australia,ContagiousDisease,-0.15,1,0);

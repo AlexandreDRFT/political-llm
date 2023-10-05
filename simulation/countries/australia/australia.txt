@@ -1,0 +1,138 @@
+[config]
+currency = "A$"
+population = 12749
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 272000
+name  = australia
+names_file = "data/names/australiannames.txt"
+flag = "flag_australia.png"
+map = "map_australia.svg"
+GUID = 6
+fx_rate_to_pound = 0.55
+apathy = 0
+starting_debt = 573100
+min_gdp = 800000
+max_gdp = 2400000
+wealth_mod = 2.39
+minor_parties = 1
+difficulty = 2
+votingsystem = PR
+
+[policies]
+AdultEducationSubsidies = 0.25
+AirlineTax = 0.1
+AlcoholLaw = 0.5
+AlcoholTax = 0.95
+AntibioticsBan = 0.5
+ArmedPolice = 0.5
+ArtsSubsidies = 0.35
+bantobacco = 0.22
+BorderControls = 0.8
+CarEmmissionsLimits = 0.15
+CarTax = 0.36
+CCTVCameras = 0.36
+ChildBenefit = 0.45
+CitizenshipTests = 0.78
+CleanEnergySubsidies = 0.28
+CompulsoryFoodLabelling = 0.5
+CompulsorySchoolSports = 0.5
+ConsumerRights = 0.5
+CorporationTax = 0.56
+Cyberbullyingawarenesscampaign = 0.5
+DisabilityBenefit = 0.45
+DrugEnforcement = 0.25
+DrugTreatment = 0.25
+ExecutiveTermLength = 0
+ExecutiveTermLimit = 1
+FaithSchoolSubsidies = 0.75
+ForeignAid = 0.41
+FreeEyeTests = 0.6
+FreeParentingClasses = 0.45
+Gambling = 0.75
+GameHunting = 0.5
+GayMarriage = 0.65
+GenderDiscriminationAct = 0.5
+GenderTransition = 0.5
+HandgunLaws = 0.5
+ImmigrationRules = 0.32
+ImportTarrifs = 0.125
+IncomeTax = 0.55
+IntellectualPropertyRights = 0.92
+InternetCensorship = 0.15
+JudiciaryIndependence = 0.8
+JuryTrial = 0.75
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.45
+LegalAid = 0.45
+LegaliseProstitution = 0.55
+MaternityLeave = 0.6
+MilitarySpending = 0.6
+MinimumWage = 0.55
+Narcotics = 0.16
+Nationalanthemsinschool = 0.35
+NeedleExchangeProgram = 0.45
+OilDrillingSubsidy = 0.5
+PayrollTax = 0.69
+PetrolTax = 0.22
+PlasticBagTax = 1.0
+PoliceForce = 0.52
+PollutionControls = 0.4
+PressFreedom = 0.9
+PrisonerTagging = 0.24
+PrisonRegime = 0.3
+PrivatePrisons = 0.5
+PublicLibraries = 1.0
+RaceDiscriminationAct = 0.85
+Recycling = 0.54
+RetirementAge = 0.4
+RightToDie = 0.15
+RoadBuilding = 0.5
+SalesTax = 0.22
+ScienceFunding = 0.3
+SchoolBuses = 0.22
+SelectiveSchooling = 0.65
+SocialCare = 0.5
+StateBroadcaster = 0.53
+StateHealthService = 0.67
+StatePensions = 0.65
+StatePostService = 0.75
+StateRail = 0.45
+StateSchools = 0.45
+StateWater = 0.5
+StemCells = 0.25
+TechnologyGrants = 0.5
+TobaccoAwarenessCampaign = 0.5
+TobaccoTax = 0.45
+TollRoads = 0.57
+UnemployedBenefit = 0.45
+UniversityGrants = 0.6
+WitnessProtectionProgram = 0.25
+
+
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_royal_family = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_hurricane = 1
+_prereq_sovereign_currency = 1
+_prereq_australia = 1
+
+minimumvotingage = 0.41
+compulsoryvote = 0.33
+statefundingparties = 0.82
+
+[options]
+MULTIPLEPARTIES
+COMPULSORY_VOTING
+
+
+
+
+
+
+
+
+

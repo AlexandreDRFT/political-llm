@@ -1,0 +1,1 @@
+CreateGrudge(Korean Culture,SouthKorea,Obesity,-0.75,1,0);

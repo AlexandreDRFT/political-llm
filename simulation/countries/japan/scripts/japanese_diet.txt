@@ -1,0 +1,1 @@
+CreateGrudge(Japanese Diet,Japan,Obesity,-0.23,1,0);CreateGrudge(Japanese Diet,Japan,Lifespan,0.12,1,0);

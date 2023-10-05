@@ -1,0 +1,1 @@
+CreateGrudge(Natural Resources,Australia,PrivateEnergy,0.18,1,0);

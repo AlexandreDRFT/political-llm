@@ -1,0 +1,1 @@
+CreateGrudge(Fukushima,Japan,Environmentalist_freq,0.06,1,0);

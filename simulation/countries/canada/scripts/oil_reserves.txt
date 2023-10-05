@@ -1,0 +1,1 @@
+CreateGrudge(Athabasca tar sands,Canada,OilSupply,0.35,1,0);

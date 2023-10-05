@@ -1,0 +1,1 @@
+CreateGrudge(Great Scenery,Canada,Tourism,0.15,1,0);

@@ -1,0 +1,1 @@
+CreateGrudge(German Culture,Germany,WorkerProductivity,0.25,1,0);

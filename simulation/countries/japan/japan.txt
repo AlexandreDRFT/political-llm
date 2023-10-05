@@ -1,0 +1,171 @@
+[config]
+currency = "¥"
+population = 63150
+economic_cycle_start = 0.1
+min_income = 0
+max_income = 11550000
+name  = japan
+names_file = "data/names/japannames.txt"
+flag = "flag_japan.png"
+map = "map_japan.svg"
+GUID = 3
+fx_rate_to_pound = 155
+apathy = 0.46
+starting_debt = 1328000000
+min_gdp = 220000000
+max_gdp = 660000000
+wealth_mod = 1250
+ministers = "pak/bitmaps/SEA_Ministers/"
+minor_parties = 1
+difficulty = 5
+votingsystem = PR
+
+[policies]
+_prereq_has_coast = 1
+_prereq_hurricane = 1
+_prereq_mining_industry
+_prereq_sovereign_currency = 1
+_prereq_royal_family = 1
+_prereq_whaling =  1
+_prereq_tsunami = 1
+_prereq_earthquake = 1
+_prereq_japan = 1
+
+AbortionLaw = 0.5
+AdultEducationSubsidies = 0.9
+AgricultureSubsidies = 0.75
+AirlineTax = 0.1
+AlcoholAwarenessCampaign = 0.1
+AlcoholLaw = 0.6
+AlcoholTax = 0.5
+AntibioticsBan = 0.25
+AntiCorruptionAgency = 0.5
+ArmedPolice = 0.5
+ArtsSubsidies = 0.5
+BiofuelSubsidies = 0.05
+BorderControls = 0.8
+BusLanes = 0.5
+CapitalGainsTax = 0.3
+CarbonTax = 0.02
+CarEmmissionsLimits = 0.5
+CarTax = 0.4
+CCTVCameras = 0.2
+CharityTaxRelief = 0.4
+ChildBenefit = 0.5
+ChildcareProvision = 0.2
+CitizenshipTests = 0.95
+CityFarms = 0.5
+CleanEnergySubsidies = 0.5
+CommunityPolicing = 0.5
+CompulsoryFoodLabelling = 0.5
+CompulsorySchoolSports = 0.5
+ConsumerRights = 0.5
+CorporationTax = 0.5
+Creationism = 0.95
+DeathPenalty = 0.2
+DetentionWithoutTrial = 0.5
+DiplomaticService = 0.1
+DisabilityBenefit = 0.5
+
+ElectricCarsInitiative = 0.5
+EmptyHomesTax = 0.3
+EnterpriseInvestmentScheme = 0.1
+ExecutiveTermLength = 0.5
+ExecutiveTermLimit = 1
+
+FamilyPlanning = 0.05
+FoodStandards = 0.5
+ForeignAid = 0.5
+ForeignInvestmentRestrictions = 0.05
+ForeignInvestorTaxBreaks = 0.25
+FreeSchoolMeals = 0.5
+Gambling = 0.1
+GameHunting = 0.85
+GenderDiscriminationAct = 0.9
+GenderTransition = 0.1
+HandgunLaws = 1
+HybridCarsInitiative = 0.5
+IncomeTax = 0.5
+InheritanceTax = 0.5
+IntellectualPropertyRights = 0.9
+IntelligenceServices = 0.5
+InternationalFusionResearchProject = 0.5
+InternetCurrencyTaxation = 0.85
+JudiciaryIndependence = 0.9
+JunkFoodTax = 0.35
+KeepTheCountryTidyCampaign = 0.5
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.86
+LegalAid = 0.75
+LegaliseProstitution = 0.75
+LimitAutomatedTrading = 0.05
+MarriedTaxAllowance = 0.5
+MaternityLeave = 0.9
+MilitarySpending = 0.5
+MinimumWage = 0.5
+Monorail = 0.5
+MortgageTaxRelief = 0.5
+Narcotics = 0
+NuclearFission = 0.2
+OilDrillingSubsidy = 0.2
+OrganDonation = 0.25
+PayrollTax = 0.5
+PetrolTax = 0.25
+PhoneTapping = 0.1
+PlasticBagTax = 0.5
+PoliceDrones = 0.5
+PollutionControls = 0.5
+PressFreedom = 0.6
+PrisonRegime = 0.95
+Prisons = 0.4
+PropertyTax = 0.3
+PublicLibraries = 0.5
+QuantitativeEasing = 0.1
+RaceDiscriminationAct = 0.5
+Recycling = 0.4
+Reforestation = 0.5
+RetirementAge = 0.125
+RightToPrivacy = 0.5
+RoadBuilding = 0.5
+RoboticsResearch = 0.5
+SalesTax = 0.5
+ScienceFunding = 0.5
+SmartMeterProgram = 0.95
+SocialCare = 0.78
+SpeedCameras = 0.5
+StateBroadcaster = 0.4
+StateHealthService = 0.5
+StateHousing = 0.3
+StatePensions = 0.5
+StateSchools = 0.4
+StateWater = 0.2
+StemCells = 0.5
+SyntheticMeatResearchGrants = 0.2
+TechnologyColleges = 0.5
+TechnologyGrants = 0.5
+TelecommutingInitiative = 0.5
+TobaccoTax = 0.75
+TollRoads = 0.5
+UnemployedBenefit = 0.6
+WorkSafetyLaw = 0.5
+CitizenshipForSale = 0.14
+ImmigrationRules = 0.75
+RefugeePolicy = 0.9
+competitionlaw = 0.2
+bordernavy = 0.25
+
+minimumvotingage = 0.41
+corporatedonors = 0.33
+partydonations = 0.5
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+CreateGrudge(Workplace Exercise,Japan,Lifespan,0.12,1,0);CreateGrudge(Workplace Exercise,Japan,Obesity,-0.12,1,0);

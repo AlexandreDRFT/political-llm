@@ -1,0 +1,1 @@
+CreateGrudge(Japanese Language,Japan,ImmigrationDemand,-0.75,1,0);CreateGrudge(Japanese Geography,Japan,ImmigrationDemand,-0.5,1,0);CreateGrudge(Japanese Culture,Japan,ImmigrationDemand,-0.75,1,0);

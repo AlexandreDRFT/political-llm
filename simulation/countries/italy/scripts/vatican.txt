@@ -1,0 +1,1 @@
+CreateGrudge(The Vatican,Italy,Religious_freq,0.23,1,0);
